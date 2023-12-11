@@ -12,7 +12,7 @@
 "
 " Colors
 " - #FF4D7C (1 - red)
-" - #00CC66 (2 - green)
+" - #00B259 (2 - green)
 " - #FFB700 (3 - yellow)
 "
 
